@@ -1,9 +1,9 @@
 {
-  "name": "gestor",
+  "name": "bmapp",
   "version": "0.0.1",
-  "description": "The best application for a business manager",
-  "productName": "GestOr",
-  "cordovaId": "com.dhtic.mobile.gestor",
+  "description": "The best manager for the best business",
+  "productName": "Business Manager",
+  "cordovaId": "com.dhtic.bmapp.mobile",
   "author": "dhtic",
   "private": true,
   "scripts": {

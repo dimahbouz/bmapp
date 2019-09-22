@@ -1,6 +1,6 @@
-# GestOr (gestor)
+# Business Manager (bmapp)
 
-The best application for a business manager
+The best manager for the best business
 
 ## Install the dependencies
 ```bash
